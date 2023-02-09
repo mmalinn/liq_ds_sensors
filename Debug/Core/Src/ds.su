@@ -1,0 +1,6 @@
+ds.c:20:19:ds_init	8	static
+ds.c:25:19:ds_read_address	32	static
+ds.c:45:26:send_cmd	24	static
+ds.c:63:19:ds_start_measure	16	static
+ds.c:68:26:ds_read_scratchpad	32	static
+ds.c:86:7:ds_get_temp	32	static
